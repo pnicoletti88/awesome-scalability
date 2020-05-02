@@ -295,7 +295,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [Deduplication at Mail.Ru](https://medium.com/@andrewsumin/efficient-storage-how-we-went-down-from-50-pb-to-32-pb-99f9c61bf6b4)
 		* [Petabyte Scale Data Deduplication at Mixpanel](https://medium.com/mixpaneleng/petabyte-scale-data-deduplication-mixpanel-engineering-e808c70c99f8)
 * [Distributed Logging](https://blog.codinghorror.com/the-problem-with-logging/)
-	* [Logging at LinkedIn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+	* ~~[Logging at LinkedIn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)~~
 	* [Scalable and Reliable Log Ingestion at Pinterest](https://medium.com/@Pinterest_Engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754)
 	* [High-performance Replicated Log Service at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2015/building-distributedlog-twitter-s-high-performance-replicated-log-servic.html)
 	* [Logging Service with Spark at CERN Accelerator](https://databricks.com/blog/2017/12/14/the-architecture-of-the-next-cern-accelerator-logging-service.html)
@@ -746,7 +746,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Architecture of Chat Service (3 parts) at Riot Games](https://engineering.riotgames.com/news/chat-service-architecture-persistence)
 * [Architecture of League of Legends Client Update](https://technology.riotgames.com/news/architecture-league-client-update)
 * [Basic Architecture of Slack](https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f)
-* [Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+* ~~[Back-end at LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)~~
 * [Back-end at Flickr](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
 * [Infrastructure (3 parts) at Zendesk](https://medium.com/zendesk-engineering/the-history-of-infrastructure-at-zendesk-part-3-foundation-team-forming-and-evolving-9859e40f5390)
 * [Cloud Infrastructure at Grubhub](https://bytes.grubhub.com/cloud-infrastructure-at-grubhub-94db998a898a)
@@ -825,7 +825,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Rotating Engineers at Zalando](https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/)
 * [Experiment Idea Review at Pinterest](https://medium.com/pinterest-engineering/how-pinterest-supercharged-its-growth-team-with-experiment-idea-review-fd6571a02fb8)
 * [Code Review](https://ai.google/research/pubs/pub47025)
-	* [Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+	* ~~[Code Review at Palantir](https://medium.com/@palantir/code-review-best-practices-19e02780015f)~~
 	* [Code Review at LINE](https://engineering.linecorp.com/en/blog/effective-code-review/)
 	* [Code Reviews at Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
 	* [Code Review at LinkedIn](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)
@@ -833,7 +833,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Code Review at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/)
 
 ## Talk
-* [Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+* ~~[Distributed Systems in One Lesson - Tim Berglund, Senior Director of Developer Experience at Confluent](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)~~
 * [Building Real Time Infrastructure at Facebook - Jeff Barber and Shie Erlich, Software Engineer at Facebook](https://www.usenix.org/conference/srecon17americas/program/presentation/erlich)
 * [Building Reliable Social Infrastructure for Google - Marc Alvidrez, Senior Manager at Google](https://www.usenix.org/conference/srecon16/program/presentation/alvidrez)
 * [Building a Distributed Build System at Google Scale - Aysylu Greenberg, SDE at Google](https://www.youtube.com/watch?v=K8YuavUy6Qc)
