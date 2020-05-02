@@ -570,7 +570,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 ## Performance
 * [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
-	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
+	* ~~[Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)~~
 	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 	* [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 	* [Live Downsizing Google Cloud Persistent Disks (PD-SSD) at Mixpanel](https://engineering.mixpanel.com/2018/07/31/live-downsizing-google-cloud-pds-for-fun-and-profit/)
