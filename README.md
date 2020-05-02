@@ -760,7 +760,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * ~~[Seagull: Distributed System that Helps Running > 20 Million Tests Per Day at Yelp](https://engineeringblog.yelp.com/2017/04/how-yelp-runs-millions-of-tests-every-day.html)~~
 * [Architecture of Play API Service at Netflix](https://qconsf.com/system/files/presentation-slides/qcon_netflix_play_api.pdf)
 * [Architecture of Sticker Services at LINE](https://www.slideshare.net/linecorp/architecture-sustaining-line-sticker-services)
-* [Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
+* ~~[Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)~~
 * [Architecture of Following Feed, Interest Feed, and Picked For You at Pinterest](https://medium.com/@Pinterest_Engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9)
 * [API Specification Workflow at WeWork](https://engineering.wework.com/our-api-specification-workflow-9337448d6ee6)
 * [Media Database at Netflix](https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a)
