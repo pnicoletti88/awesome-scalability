@@ -841,10 +841,10 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [How Google Does Planet-Scale for Planet-Scale Infra - Melissa Binde, SRE Director for Google Cloud Platform](https://www.youtube.com/watch?v=H4vMcD7zKM0)
 * [Netflix Guide to Microservices - Josh Evans, Director of Operations Engineering at Netflix](https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=2837s)
 * [Achieving Rapid Response Times in Large Online Services - Jeff Dean, Google Senior Fellow](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
-* [Architecture to Handle 80K RPS Celebrity Sales at Shopify - Simon Eskildsen, Engineering Lead at Shopify](https://www.youtube.com/watch?v=N8NWDHgWA28)
+* ~~[Architecture to Handle 80K RPS Celebrity Sales at Shopify - Simon Eskildsen, Engineering Lead at Shopify](https://www.youtube.com/watch?v=N8NWDHgWA28)~~
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
-* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
+* ~~[How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)~~
 * [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
 * [Solving Large-scale Data Center and Cloud Interconnection Problems -  Ihab Tarazi, CTO at Equinix](https://atscaleconference.com/videos/solving-large-scale-data-center-and-cloud-interconnection-problems/)
 * [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -864,7 +864,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Scaling Load Balancing Infra to Support 1.3 Billion Users at Facebook - Patrick Shuff, Production Engineer at Facebook](https://www.youtube.com/watch?v=bxhYNfFeVF4)
 * [Scaling (a NSFW site) to 200 Million Views A Day And Beyond - Eric Pickup, Lead Platform Developer at MindGeek](https://www.youtube.com/watch?v=RlkCdM_f3p4)
 * [Scaling Counting Infrastructure at Quora - Chun-Ho Hung and Nikhil Gar, SEs at Quora](https://www.infoq.com/presentations/quora-analytics)
-* [Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)
+* ~~[Scaling Git at Microsoft - Saeed Noursalehi, Principal Program Manager at Microsoft](https://www.youtube.com/watch?v=g_MPGU_m01s)~~
 * [Scaling Multitenant Architecture Across Multiple Data Centres at Shopify - Weingarten, Engineering Lead at Shopify](https://www.youtube.com/watch?v=F-f0-k46WVk)
 
 ## Book
